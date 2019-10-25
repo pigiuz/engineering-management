@@ -71,8 +71,7 @@ Have something to add? suggest it in a PR! ;)
 - [How a bad boss influences our leadership style](https://medium.com/know-your-team-blog/the-anti-mentor-how-a-bad-boss-influences-our-leadership-style-d7a2708e5dc1)
 ## Books
 - [Leading snowflakes - Oren Ellenbogen](http://leadingsnowflakes.com/)
-- [Managing Humans - Michael Lopp](https://www.amazon.co.uk/Mana
-ging-Humans-Humorous-Software-Engineering/dp/1430243147)
+- [Managing Humans - Michael Lopp](https://www.amazon.co.uk/Managing-Humans-Humorous-Software-Engineering/dp/1430243147)
 
 # General management training
 ## Articles
