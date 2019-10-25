@@ -29,6 +29,12 @@ Have something to add? suggest it in a PR! ;)
 - [Powerful - Patty McCord](http://pattymccord.com/book/)
 - [Inspired - Marty Cagan](https://svpg.com/inspired-how-to-create-products-customers-love/)
 
+# Remote first
+## Articles
+- [Asynchronous Communication](https://doist.com/blog/asynchronous-communication/)
+## Books
+- [Remote - DHH](https://www.amazon.co.uk/Remote-Required-David-Heinemeier-Hansson-ebook/dp/B00CZ7OC46)
+
 # Performance Management
 ## Articles
 - [Cognitive Bias And Why Performance Management is So Hard](https://medium.freecodecamp.org/cognitive-bias-and-why-performance-management-is-so-hard-8852a1b874cd)
@@ -65,7 +71,8 @@ Have something to add? suggest it in a PR! ;)
 - [How a bad boss influences our leadership style](https://medium.com/know-your-team-blog/the-anti-mentor-how-a-bad-boss-influences-our-leadership-style-d7a2708e5dc1)
 ## Books
 - [Leading snowflakes - Oren Ellenbogen](http://leadingsnowflakes.com/)
-- [Managing Humans - Michael Lopp](https://www.amazon.co.uk/Managing-Humans-Humorous-Software-Engineering/dp/1430243147)
+- [Managing Humans - Michael Lopp](https://www.amazon.co.uk/Mana
+ging-Humans-Humorous-Software-Engineering/dp/1430243147)
 
 # General management training
 ## Articles
@@ -73,6 +80,8 @@ Have something to add? suggest it in a PR! ;)
 
 ## Books
 - [First, break all the rules - Gallup](https://www.gallup.com/press/176069/first-break-rules-world-greatest-managers-differently.aspx)
+- [Forming, Storming, Norming, Performing](https://www.amazon.co.uk/Forming-Storming-Norming-Performing-Communication/dp/1475968434)
+- [Resilient Management - Lara Hogan](https://abookapart.com/products/resilient-management)
 
 
 # Relevant mailing lists
