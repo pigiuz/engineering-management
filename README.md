@@ -72,6 +72,7 @@ Have something to add? suggest it in a PR! ;)
 ## Books
 - [Leading snowflakes - Oren Ellenbogen](http://leadingsnowflakes.com/)
 - [Managing Humans - Michael Lopp](https://www.amazon.co.uk/Managing-Humans-Humorous-Software-Engineering/dp/1430243147)
+- [The Manager's Path - Camille Fournier](https://www.amazon.co.uk/Manager%60s-Path-Camille-Fournier/dp/1491973897)
 
 # General management training
 ## Articles
