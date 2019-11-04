@@ -87,3 +87,4 @@ Have something to add? suggest it in a PR! ;)
 # Relevant mailing lists
 - [Software Lead Weekly](http://softwareleadweekly.com/)
 - [Tech Manager Weekly](http://www.techmanagerweekly.com/)
+- [Level Up](http://levelup.thekua.com/)
