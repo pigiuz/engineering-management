@@ -67,6 +67,7 @@ Have something to add? suggest it in a PR! ;)
 - [Driving technical change - Terrence Ryan](https://www.amazon.co.uk/Driving-Technical-Change-Terrence-Ryan/dp/1934356603)
 - [Extreme Contracts - Jacopo Romei](https://jacoporomei.com/extreme-contracts/)
 - [Accelerate - Nicole Forsgren, Jez Humble, Gene Kim](https://itrevolution.com/book/accelerate/)
+- [Management 3.0 - Jurgen Appelo](https://management30.com/books/management30/)
 
 # First-time managers
 ## Articles
