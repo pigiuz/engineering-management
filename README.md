@@ -65,6 +65,7 @@ Have something to add? suggest it in a PR! ;)
 - [Antifragile - Nassim Nicholas Taleb](https://www.amazon.co.uk/Antifragile-Things-That-Gain-Disorder/dp/0812979680)
 - [Implementing Lean software development - Mary Poppendieck](https://www.amazon.co.uk/Implementing-Lean-Software-Development-Addison-Wesley/dp/0321437381)
 - [Driving technical change - Terrence Ryan](https://www.amazon.co.uk/Driving-Technical-Change-Terrence-Ryan/dp/1934356603)
+- [Extreme Contracts - Jacopo Romei](https://jacoporomei.com/extreme-contracts/)
 
 # First-time managers
 ## Articles
