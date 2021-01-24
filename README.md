@@ -28,6 +28,7 @@ Have something to add? suggest it in a PR! ;)
 ## Books
 - [Powerful - Patty McCord](http://pattymccord.com/book/)
 - [Inspired - Marty Cagan](https://svpg.com/inspired-how-to-create-products-customers-love/)
+- [Thanks for the Feedback: The Science and Art of Receiving Feedback Well - Sheila Heen, Douglas Stone](https://www.penguinrandomhouse.com/books/313485/thanks-for-the-feedback-by-douglas-stone-and-sheila-heen/)
 
 # Remote first
 ## Articles
