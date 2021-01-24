@@ -58,6 +58,7 @@ Have something to add? suggest it in a PR! ;)
 ## Videos
 - [The Root Causes of Product Failure - Marty Cagan](https://www.youtube.com/watch?v=9dccd8lihpQ) (50 mins)
 - [Do you know how fast you're going? - Douglas Talbot](https://www.infoq.com/presentations/measure-lean-feedback) (50 mins)
+- [Strategic TDD - Francesco Strazzullo](https://www.youtube.com/watch?v=q7bw-P7qgGA) (35 mins)
 ## Books
 - [Kanban in action - Marcus Hammarberg and Joakim Sunden](https://www.manning.com/books/kanban-in-action)
 - [The Phoenix project - Gene Kim and Kevin Behr](https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO)
