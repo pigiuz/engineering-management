@@ -43,8 +43,12 @@ Have something to add? suggest it in a PR! ;)
 - [We fired our top talent. Best decision we ever made.](https://medium.freecodecamp.org/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde?gi=fbc062e62a4)
 - [You fired your top talent. I hope you’re happy.](https://startupsventurecapital.com/you-fired-your-top-talent-i-hope-youre-happy-cf57c41183dd)
 - [Performance management at startups](https://quip.com/MwcgA10sGgFC)
+
+## Videos
+- [Performance, Bonus, Target - Simon Sinek](https://www.youtube.com/watch?v=ACZhpCdfEdY)
 ## Books
 - [Coaching for performance - John Whitmore](https://www.coachingperformance.com/coaching-for-performance-available-languages/)
+
 
 # Process management
 ## Articles
