@@ -28,6 +28,8 @@ Have something to add? suggest it in a PR! ;)
 ## Books
 - [Powerful - Patty McCord](http://pattymccord.com/book/)
 - [Inspired - Marty Cagan](https://svpg.com/inspired-how-to-create-products-customers-love/)
+- [Thanks for the Feedback: The Science and Art of Receiving Feedback Well - Sheila Heen, Douglas Stone](https://www.penguinrandomhouse.com/books/313485/thanks-for-the-feedback-by-douglas-stone-and-sheila-heen/)
+- [The Power of Pull - John Hagel, John Seely Brown, Lang Davison](https://www.basicbooks.com/titles/john-hagel/the-power-of-pull/9780465021130/)
 
 # Remote first
 ## Articles
@@ -42,8 +44,12 @@ Have something to add? suggest it in a PR! ;)
 - [We fired our top talent. Best decision we ever made.](https://medium.freecodecamp.org/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde?gi=fbc062e62a4)
 - [You fired your top talent. I hope you’re happy.](https://startupsventurecapital.com/you-fired-your-top-talent-i-hope-youre-happy-cf57c41183dd)
 - [Performance management at startups](https://quip.com/MwcgA10sGgFC)
+
+## Videos
+- [Performance, Bonus, Target - Simon Sinek](https://www.youtube.com/watch?v=ACZhpCdfEdY)
 ## Books
 - [Coaching for performance - John Whitmore](https://www.coachingperformance.com/coaching-for-performance-available-languages/)
+
 
 # Process management
 ## Articles
@@ -53,12 +59,16 @@ Have something to add? suggest it in a PR! ;)
 ## Videos
 - [The Root Causes of Product Failure - Marty Cagan](https://www.youtube.com/watch?v=9dccd8lihpQ) (50 mins)
 - [Do you know how fast you're going? - Douglas Talbot](https://www.infoq.com/presentations/measure-lean-feedback) (50 mins)
+- [Strategic TDD - Francesco Strazzullo](https://www.youtube.com/watch?v=q7bw-P7qgGA) (35 mins)
 ## Books
 - [Kanban in action - Marcus Hammarberg and Joakim Sunden](https://www.manning.com/books/kanban-in-action)
 - [The Phoenix project - Gene Kim and Kevin Behr](https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO)
 - [Antifragile - Nassim Nicholas Taleb](https://www.amazon.co.uk/Antifragile-Things-That-Gain-Disorder/dp/0812979680)
 - [Implementing Lean software development - Mary Poppendieck](https://www.amazon.co.uk/Implementing-Lean-Software-Development-Addison-Wesley/dp/0321437381)
 - [Driving technical change - Terrence Ryan](https://www.amazon.co.uk/Driving-Technical-Change-Terrence-Ryan/dp/1934356603)
+- [Extreme Contracts - Jacopo Romei](https://jacoporomei.com/extreme-contracts/)
+- [Accelerate - Nicole Forsgren, Jez Humble, Gene Kim](https://itrevolution.com/book/accelerate/)
+- [Management 3.0 - Jurgen Appelo](https://management30.com/books/management30/)
 
 # First-time managers
 ## Articles
