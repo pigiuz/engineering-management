@@ -98,3 +98,7 @@ Have something to add? suggest it in a PR! ;)
 - [Software Lead Weekly](http://softwareleadweekly.com/)
 - [Tech Manager Weekly](http://www.techmanagerweekly.com/)
 - [Level Up](http://levelup.thekua.com/)
+
+# Banging my own drum 🥁
+- [Engineering Leadership Notes](https://pgniero.substack.com/)
+- [Lessons learned during Hypergrowth - Codemotion 2019](https://www.youtube.com/watch?v=fUVS9Va882o)
