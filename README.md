@@ -86,7 +86,7 @@ Have something to add? suggest it in a PR! ;)
 
 # General management training
 ## Articles
-- [Google re:Work management training](https://rework.withgoogle.com/subjects/managers/)
+- [Google re:Work management training](https://rework.withgoogle.com/intl/en/subjects/managers)
 
 ## Books
 - [First, break all the rules - Gallup](https://www.gallup.com/press/176069/first-break-rules-world-greatest-managers-differently.aspx)
