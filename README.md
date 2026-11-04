@@ -34,6 +34,7 @@ Have something to add? suggest it in a PR! ;)
 # Remote first
 ## Articles
 - [Asynchronous Communication](https://doist.com/blog/asynchronous-communication/)
+- [Hybrid presentation pointing: rehearsal record](https://light-tracer.com/wp-content/uploads/2026/10/hybrid-pointing-rehearsal-record-open-v1.pdf) — A free worksheet for a distributed team’s live demo. Have a remote teammate identify a slide detail after an advance or a change in what is shared.
 ## Books
 - [Remote - DHH](https://www.amazon.co.uk/Remote-Required-David-Heinemeier-Hansson-ebook/dp/B00CZ7OC46)
 
